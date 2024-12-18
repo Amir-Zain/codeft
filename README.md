@@ -21,7 +21,7 @@ The assessment endpoint is designed to synchronize user data from an external AP
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Amir-Zain/codeft
+git clone https://github.com/Amir-Zain/codeft.git
 cd <project-directory>
 ```
 
