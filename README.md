@@ -16,6 +16,11 @@ The assessment endpoint is designed to synchronize user data from an external AP
 -   MySQL or PostgreSQL
 -   Postman (optional, for API testing)
 
+## Main files
+
+-   routes/api.php (api route defined there);
+-   app/Http/Controllers/api/ApiController (controller responsible for data fetching and db insertions);
+
 ## Project Setup
 
 ### 1. Clone the Repository
