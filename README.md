@@ -1,5 +1,9 @@
 # Assessment
 
+## Requirement
+
+the requirement was to create api endpoint in laravel that will fetch data from any external api and insert that into our database and return the data as json
+
 ## Overview
 
 The assessment endpoint is designed to synchronize user data from an external API (dummyjson.com) to the local database, with robust handling of existing users and error scenarios.
